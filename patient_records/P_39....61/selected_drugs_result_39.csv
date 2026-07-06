@@ -1,0 +1,5 @@
+Drug,Target_Gene,Action,Target_Status
+Bexarotene,RXRA,ACTIVATES,COVERED
+N/A,STAT3,N/A,MISSING
+N/A,TM4SF1,N/A,MISSING
+N/A,FOS,N/A,MISSING
