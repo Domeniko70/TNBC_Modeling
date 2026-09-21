@@ -1,0 +1,5 @@
+Drug,Target_Gene,Action,Target_Status
+Cladribine,CDKN1A,INHIBITS,COVERED
+N/A,ATF2,N/A,MISSING
+N/A,PARP1,N/A,MISSING
+N/A,TRIP13,N/A,MISSING

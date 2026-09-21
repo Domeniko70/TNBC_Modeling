@@ -1,0 +1,50 @@
+===========================================================================
+🎯 UNFILTERED COMPARATIVE REPORT: Baseline VS Optimized Network
+===========================================================================
+
+⏱️ COMPUTATIONAL METRICS:
+  > Search Space Size: 110 genes
+  > Execution Time:    37.02 seconds (0.62 minutes)
+
+HYBRID THERAPEUTIC STRATEGY (Minimum Guaranteed Nodes):
+    > ETS1       -> 1 (Optimized Target)
+    > HIF1A      -> 0 (Optimized Target)
+    > NCOA4      -> 0 (Optimized Target)
+    > BCL11A     -> 1 (Optimized Target)
+    > TRIP13     -> 0 (Optimized Target)
+    > CSNK2B     -> 0 (Optimized Target)
+
+📊 OVERALL STABLE IMPROVEMENT:
+  > Baseline Score:      14 / 26 targets
+  > Optimized Score:     25 / 26 targets
+  > Total Interventions: 6 nodes
+
+🔍 TARGET DETAILS (Baseline vs Optimized):
+TARGET       | TARGET VAL | BASELINE                  | OPTIMIZED                
+---------------------------------------------------------------------------
+APAF1        | 1          | ❌ FIXED WRONG             | ✅ CORRECT (+)            
+BAD          | 1          | ❌ FIXED WRONG             | ✅ CORRECT (+)            
+BCL2         | 0          | ✔️ CORRECT                | ✔️ CORRECT               
+BCL2A1       | 0          | ✔️ CORRECT                | ✔️ CORRECT               
+BCL2L1       | 0          | ✔️ CORRECT                | ✔️ CORRECT               
+BCL2L11      | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+BID          | 1          | ❌ FIXED WRONG             | ✅ CORRECT (+)            
+BIRC2        | 0          | ❌ FIXED WRONG             | ✅ CORRECT (+)            
+BIRC5        | 0          | ✔️ CORRECT                | ✔️ CORRECT               
+CASP10       | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+CASP2        | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+CASP3        | 1          | ❌ FIXED WRONG             | ✅ CORRECT (+)            
+CASP6        | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+CASP7        | 1          | ❌ FIXED WRONG             | ✅ CORRECT (+)            
+CASP8        | 1          | ❌ FIXED WRONG             | ✅ CORRECT (+)            
+CASP9        | 1          | ❌ FIXED WRONG             | ✅ CORRECT (+)            
+CYCS         | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+DIABLO       | 1          | ❌ FIXED WRONG             | ✅ CORRECT (+)            
+FADD         | 1          | ❌ FIXED WRONG             | ✅ CORRECT (+)            
+MAP3K5       | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+PMAIP1       | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+TRADD        | 1          | ❌ FIXED WRONG             | ❌ FIXED WRONG            
+XIAP         | 0          | ❌ FIXED WRONG             | ✅ CORRECT (+)            
+BAK1         | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+BAX          | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+MCL1         | 0          | ✔️ CORRECT                | ✔️ CORRECT               

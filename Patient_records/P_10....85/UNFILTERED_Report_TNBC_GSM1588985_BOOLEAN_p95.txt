@@ -1,0 +1,46 @@
+===========================================================================
+🎯 UNFILTERED COMPARATIVE REPORT: Baseline VS Optimized Network
+===========================================================================
+
+⏱️ COMPUTATIONAL METRICS:
+  > Search Space Size: 111 genes
+  > Execution Time:    45.87 seconds (0.76 minutes)
+
+HYBRID THERAPEUTIC STRATEGY (Minimum Guaranteed Nodes):
+    > TGFB1      -> 1 (Optimized Target)
+    > PPARD      -> 0 (Optimized Target)
+
+📊 OVERALL STABLE IMPROVEMENT:
+  > Baseline Score:      24 / 26 targets
+  > Optimized Score:     25 / 26 targets
+  > Total Interventions: 2 nodes
+
+🔍 TARGET DETAILS (Baseline vs Optimized):
+TARGET       | TARGET VAL | BASELINE                  | OPTIMIZED                
+---------------------------------------------------------------------------
+APAF1        | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+BAD          | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+BCL2         | 0          | ✔️ CORRECT                | ✔️ CORRECT               
+BCL2A1       | 0          | ✔️ CORRECT                | ✔️ CORRECT               
+BCL2L1       | 0          | ✔️ CORRECT                | ✔️ CORRECT               
+BCL2L11      | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+BID          | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+BIRC2        | 0          | ✔️ CORRECT                | ✔️ CORRECT               
+BIRC5        | 0          | ✔️ CORRECT                | ✔️ CORRECT               
+CASP10       | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+CASP2        | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+CASP3        | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+CASP6        | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+CASP7        | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+CASP8        | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+CASP9        | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+CYCS         | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+DIABLO       | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+FADD         | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+MAP3K5       | 1          | ❌ FIXED WRONG             | ✅ CORRECT (+)            
+PMAIP1       | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+TRADD        | 1          | ❌ FIXED WRONG             | ❌ FIXED WRONG            
+XIAP         | 0          | ✔️ CORRECT                | ✔️ CORRECT               
+BAK1         | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+BAX          | 1          | ✔️ CORRECT                | ✔️ CORRECT               
+MCL1         | 0          | ✔️ CORRECT                | ✔️ CORRECT               
