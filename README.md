@@ -59,3 +59,4 @@ Structure of the Patient_records folder. The folder contains one subfolder per p
 - `supplementary_data/Sensitivity_P4_P20_NEW.xlsx`: sensitivity analysis of the pruning tolerance (τ = 0.4) for patients 4 and 20.
 - `results_tables/Wilcoxon_paired_scores_NEW.png`: paired comparison of baseline and final target-match scores (Wilcoxon signed-rank test, descriptive).
 - `results_tables/Figure5_interactive.html`: interactive version of Figure 5 (driver nodes, drugs and Non_Driver_Target_Count for each patient), viewable in any web browser.
+supplementary_data/Supplementary_File_S2_Pharmacology.xlsx`: Supplementary File S2 of the article (pharmacological mapping: filtering cascade, removed compounds and final drug–target associations).
