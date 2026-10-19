@@ -1,0 +1,5 @@
+Drug,Target_Gene,Action,Target_Status
+Bevacizumab,HSP90AB1,INHIBITS,COVERED
+Bexarotene,RXRA,ACTIVATES,COVERED
+Cladribine,CDKN1A,INHIBITS,COVERED
+N/A,BRCA1,N/A,MISSING

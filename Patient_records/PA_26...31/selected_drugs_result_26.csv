@@ -1,0 +1,5 @@
+Drug,Target_Gene,Action,Target_Status
+Polatuzumab_Vedotin,BCL6,INHIBITS,COVERED
+Cladribine,CDKN1A,INHIBITS,COVERED
+N/A,TRIP13,N/A,MISSING
+N/A,ITGB4,N/A,MISSING

@@ -1,0 +1,5 @@
+Drug,Target_Gene,Action,Target_Status
+Cladribine,TGFB1,INHIBITS,COVERED
+Cladribine,CDKN1A,INHIBITS,COVERED
+N/A,IKBKG,N/A,MISSING
+N/A,ACTB,N/A,MISSING

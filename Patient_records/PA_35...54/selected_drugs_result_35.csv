@@ -1,0 +1,5 @@
+Drug,Target_Gene,Action,Target_Status
+Bexarotene,RXRA,ACTIVATES,COVERED
+Cladribine,CDKN1A,INHIBITS,COVERED
+N/A,DAXX,N/A,MISSING
+N/A,SYNPO,N/A,MISSING
