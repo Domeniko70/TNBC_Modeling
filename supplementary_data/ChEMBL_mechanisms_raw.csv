@@ -1,0 +1,299 @@
+ChEMBL_ID,Drug,action_type,mechanism,target_chembl_id,target_type,Genes,direct_interaction,mechanism_refs,decision
+CHEMBL1023,Bexarotene,AGONIST,Retinoid X receptor agonist,CHEMBL2363070,PROTEIN FAMILY,RXRA; RXRB; RXRG,1,FDA:label/2015/021055s010lbl.pdf,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL1024,Ifosfamide,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:setid=b7241707-7538-4d1a-91e7-3a25a91e0b9a#section-13,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL105,Mitomycin,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,FDA:label/2014/022572s003lbl.pdf; Wikipedia:Mitomycin,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL1094636,Niraparib,INHIBITOR,Poly [ADP-ribose] polymerase 2 inhibitor,CHEMBL5366,SINGLE PROTEIN,PARP2,1,FDA:label/2017/208447lbl.pdf; PubMed:19873981,0
+CHEMBL1094636,Niraparib,INHIBITOR,Poly [ADP-ribose] polymerase-1 inhibitor,CHEMBL3105,SINGLE PROTEIN,PARP1,1,FDA:label/2017/208447lbl.pdf; PubMed:19873981,0
+CHEMBL1096885,Valrubicin,INHIBITOR,DNA topoisomerase II alpha inhibitor,CHEMBL1806,SINGLE PROTEIN,TOP2A,1,DailyMed:setid=e96f30a0-6662-11de-8f80-0002a5d5c51b; Wikipedia:Type_II_topoisomerase,0
+CHEMBL1096885,Valrubicin,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:setid=e96f30a0-6662-11de-8f80-0002a5d5c51b; Wikipedia:Type_II_topoisomerase,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL1129,"Trifluridine,Tipiracil",INHIBITOR,DNA inhibitor,CHEMBL2366042,NUCLEIC-ACID,,1,ISBN:0-86577-843-4 PP. 284; PubMed:1377898; PubMed:18600528; PubMed:6436227; PubMed:8032338; Wikipedia:Trifluridine,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL1173055,Rucaparib,INHIBITOR,"PARP 1, 2 and 3 inhibitor",CHEMBL3390820,PROTEIN FAMILY,PARP1; PARP2; PARP3,1,PubMed:19047122,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL1186894,Amrubicin,INHIBITOR,DNA topoisomerase II alpha inhibitor,CHEMBL1806,SINGLE PROTEIN,TOP2A,1,PubMed:26750506,0
+CHEMBL1200374,Exemestane,INHIBITOR,Cytochrome P450 19A1 inhibitor,CHEMBL1978,SINGLE PROTEIN,CYP19A1,1,DailyMed:setid=cf066b7a-032a-416c-8d40-15ba581423e3#section-13,0
+CHEMBL1201112,Nelarabine,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:setid=893c95d7-d9b6-4064-db97-91dd21ce7e40#section-13,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL1201129,Decitabine,INHIBITOR,DNA (cytosine-5)-methyltransferase 3A inhibitor,CHEMBL1992,SINGLE PROTEIN,DNMT3A,1,DailyMed:setid=acaf6e50-7cd3-4431-98ef-d1c07e3ed8c2#section-13; Wikipedia:DNA_methylation,0
+CHEMBL1201129,Decitabine,INHIBITOR,DNA (cytosine-5)-methyltransferase 1 inhibitor,CHEMBL1993,SINGLE PROTEIN,DNMT1,1,DailyMed:setid=acaf6e50-7cd3-4431-98ef-d1c07e3ed8c2#section-13; Wikipedia:DNA_methylation,0
+CHEMBL1201129,Decitabine,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:setid=acaf6e50-7cd3-4431-98ef-d1c07e3ed8c2#section-13; Wikipedia:DNA_methylation,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL1201139,Megestrol Acetate,AGONIST,Progesterone receptor agonist,CHEMBL208,SINGLE PROTEIN,PGR,1,PubMed:16291771; PubMed:23395103; Wikipedia:Megestrol_acetate,1
+CHEMBL1201182,Temsirolimus,INHIBITOR,FK506-binding protein 1A inhibitor,CHEMBL1902,SINGLE PROTEIN,FKBP1A,1,DailyMed:setid=95b7dc92-2180-42f1-8699-3c28f609e674#section-13,0
+CHEMBL1201438,Aldesleukin,AGONIST,Interleukin-2 receptor agonist,CHEMBL2364167,PROTEIN COMPLEX,IL2RA; IL2RB; IL2RG,1,DailyMed:setid=a588140c-f9ed-4a9b-a9a6-bf3daafd8a5a#nlm34090-1,excluded: target is not a single protein (PROTEIN COMPLEX)
+CHEMBL1201477,Polyestradiol Phosphate,AGONIST,Estrogen receptor alpha agonist,CHEMBL206,SINGLE PROTEIN,ESR1,1,PubMed:10230677,1
+CHEMBL1201550,Denileukin Diftitox,INHIBITOR,Elongation factor 2 inhibitor,CHEMBL1795108,SINGLE PROTEIN,EEF2,1,FDA:label/2011/103767s5119lbl.pdf; PubMed:17187516,0
+CHEMBL1201550,Denileukin Diftitox,BINDING AGENT,Interleukin-2 receptor binding agent,CHEMBL2364167,PROTEIN COMPLEX,IL2RA; IL2RB; IL2RG,1,FDA:label/2011/103767s5119lbl.pdf; PubMed:17187516,excluded: target is not a single protein (PROTEIN COMPLEX)
+CHEMBL1201558,Interferon Alfa-2b,AGONIST,Interferon alpha/beta receptor agonist,CHEMBL2364170,PROTEIN COMPLEX,IFNAR1; IFNAR2,1,DailyMed:setid=fd653d74-48ab-49e4-a42d-ec1cbc59badb; PubMed:10049744,excluded: target is not a single protein (PROTEIN COMPLEX)
+CHEMBL1201561,Peginterferon Alfa-2b,AGONIST,Interferon alpha/beta receptor agonist,CHEMBL2364170,PROTEIN COMPLEX,IFNAR1; IFNAR2,1,DailyMed:setid=de61685e-2b8c-4e22-84bb-869e13600440; PubMed:17969444,excluded: target is not a single protein (PROTEIN COMPLEX)
+CHEMBL1201577,Cetuximab,INHIBITOR,Epidermal growth factor receptor erbB1 inhibitor,CHEMBL203,SINGLE PROTEIN,EGFR,1,DailyMed:setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9,0
+CHEMBL1201583,Bevacizumab,INHIBITOR,Vascular endothelial growth factor A inhibitor,CHEMBL1783,SINGLE PROTEIN,VEGFA,1,DailyMed:setid=939b5d1f-9fb2-4499-80ef-0607aa6b114e; PubMed:9377574,0
+CHEMBL1201585,Trastuzumab,INHIBITOR,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL1824,SINGLE PROTEIN,ERBB2,1,DailyMed:setid=492dbdb2-077e-4064-bff3-372d6af0a7a2,0
+CHEMBL1201587,Alemtuzumab,INHIBITOR,CAMPATH-1 antigen inhibitor,CHEMBL1912,SINGLE PROTEIN,CD52,1,DailyMed:setid=4f5f7255-7abc-4328-bd1a-ceaf139ef3e0,0
+CHEMBL1201746,Pralatrexate,INHIBITOR,Dihydrofolate reductase inhibitor,CHEMBL202,SINGLE PROTEIN,DHFR,1,DailyMed:setid=5e4cf15b-bf7b-4b83-863e-e9ef27741a51#section-13,0
+CHEMBL1201748,Cabazitaxel,INHIBITOR,Tubulin inhibitor,CHEMBL2095182,PROTEIN COMPLEX GROUP,TUBA1A; TUBA1B; TUBA1C; TUBA3C; TUBA3E; TUBA4A; TUBB; TUBB1; TUBB2A; TUBB2B; TUBB3; TUBB4A; TUBB4B; TUBB6; TUBB8,1,DailyMed:setid=de3d9c26-572b-4ea4-9b2d-dd58a2b3e8fa#nlm34090-1; Wikipedia:Taxane,excluded: target is not a single protein (PROTEIN COMPLEX GROUP)
+CHEMBL1201752,Ixabepilone,INHIBITOR,Tubulin inhibitor,CHEMBL2095182,PROTEIN COMPLEX GROUP,TUBA1A; TUBA1B; TUBA1C; TUBA3C; TUBA3E; TUBA4A; TUBB; TUBB1; TUBB2A; TUBB2B; TUBB3; TUBB4A; TUBB4B; TUBB6; TUBB8,1,DailyMed:setid=e7992f6b-279b-46a7-b9c3-fea4e17718dc#nlm34090-1; PubMed:22113255,excluded: target is not a single protein (PROTEIN COMPLEX GROUP)
+CHEMBL1201827,Panitumumab,INHIBITOR,Epidermal growth factor receptor erbB1 inhibitor,CHEMBL203,SINGLE PROTEIN,EGFR,1,DailyMed:setid=e0fa4bca-f245-4d92-ae29-b0c630a315c2,0
+CHEMBL1229517,Vemurafenib,INHIBITOR,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL5145,SINGLE PROTEIN,BRAF,1,FDA:label/2011/202429s000lbl.pdf,0
+CHEMBL1237023,Denosumab,INHIBITOR,Tumor necrosis factor ligand superfamily member 11 inhibitor,CHEMBL2364162,SINGLE PROTEIN,TNFSF11,1,DailyMed:setid=49e5afe9-a0c7-40c4-af9f-f287a80c5c88,0
+CHEMBL1282,Imiquimod,AGONIST,Toll-like receptor 7 agonist,CHEMBL5936,SINGLE PROTEIN,TLR7,1,FDA:label/2010/020723s022lbl.pdf; PubMed:14616337,1
+CHEMBL1287853,Fedratinib,INHIBITOR,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL1974,SINGLE PROTEIN,FLT3,1,PubMed:18394554,0
+CHEMBL1287853,Fedratinib,INHIBITOR,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL2971,SINGLE PROTEIN,JAK2,1,PubMed:18394554,0
+CHEMBL1289494,Tivozanib,INHIBITOR,Vascular endothelial growth factor receptor inhibitor,CHEMBL2095227,PROTEIN FAMILY,FLT1; FLT4; KDR,1,PubMed:16982756; PubMed:23818763,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL1289926,Axitinib,INHIBITOR,Vascular endothelial growth factor receptor inhibitor,CHEMBL2095227,PROTEIN FAMILY,FLT1; FLT4; KDR,1,DailyMed:setid=84137882-e000-47da-bd5b-fa76ab3c76f9#section-12,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL131,Prednisolone,AGONIST,Glucocorticoid receptor agonist,CHEMBL2034,SINGLE PROTEIN,NR3C1,1,PubMed:19482847; PubMed:2879901,1
+CHEMBL1351,Carboplatin,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,FDA:label/2012/077139Orig1s016lbl.pdf,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL1399,Anastrozole,INHIBITOR,Cytochrome P450 19A1 inhibitor,CHEMBL1978,SINGLE PROTEIN,CYP19A1,1,DailyMed:setid=03586c40-eb32-45c5-beb7-6762a6b78790#section-12,0
+CHEMBL1421,Dasatinib,INHIBITOR,Tyrosine-protein kinase ABL inhibitor,CHEMBL1862,SINGLE PROTEIN,ABL1,1,DailyMed:setid=0e7f054c-7a27-4192-bd1c-6115d8be858f#section-13,0
+CHEMBL1421,Dasatinib,INHIBITOR,Platelet-derived growth factor receptor beta inhibitor,CHEMBL1913,SINGLE PROTEIN,PDGFRB,1,DailyMed:setid=0e7f054c-7a27-4192-bd1c-6115d8be858f#section-13,0
+CHEMBL1421,Dasatinib,INHIBITOR,Stem cell growth factor receptor inhibitor,CHEMBL1936,SINGLE PROTEIN,KIT,1,DailyMed:setid=0e7f054c-7a27-4192-bd1c-6115d8be858f#section-13,0
+CHEMBL1421,Dasatinib,INHIBITOR,Ephrin type-A receptor 2 inhibitor,CHEMBL2068,SINGLE PROTEIN,EPHA2,1,DailyMed:setid=0e7f054c-7a27-4192-bd1c-6115d8be858f#section-13,0
+CHEMBL1421,Dasatinib,INHIBITOR,SRC inhibitor,CHEMBL2363074,PROTEIN FAMILY,BLK; FGR; FRK; FYN; HCK; LCK; LYN; SRC; SRMS; YES1,1,DailyMed:setid=0e7f054c-7a27-4192-bd1c-6115d8be858f#section-13,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL1421,Dasatinib,INHIBITOR,Bcr/Abl fusion protein inhibitor,CHEMBL2096618,CHIMERIC PROTEIN,ABL1; BCR,1,FDA:label/2010/021986s7s8lbl.pdf,excluded: target is not a single protein (CHIMERIC PROTEIN)
+CHEMBL1444,Letrozole,INHIBITOR,Cytochrome P450 19A1 inhibitor,CHEMBL1978,SINGLE PROTEIN,CYP19A1,1,DailyMed:setid=82b77d74-085f-45ac-a7dd-1f5c038bf406#section-12,0
+CHEMBL1445,Fluoxymesterone,AGONIST,Androgen Receptor agonist,CHEMBL1871,SINGLE PROTEIN,AR,1,DailyMed:setid=5328c194-5650-4d1f-9e28-8cea038cce81; Wikipedia:Fluoxymesterone,1
+CHEMBL1455,Altretamine,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:setid=8456a8db-a7f6-4bc0-86be-e9c8c374140b,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL1489,Azacitidine,INHIBITOR,DNA (cytosine-5)-methyltransferase 3A inhibitor,CHEMBL1992,SINGLE PROTEIN,DNMT3A,1,DailyMed:setid=3495a71a-cc04-4776-851f-f185956f32af#section-12; Wikipedia:Azacitidine; Wikipedia:DNA_methylation,0
+CHEMBL1489,Azacitidine,INHIBITOR,DNA (cytosine-5)-methyltransferase 1 inhibitor,CHEMBL1993,SINGLE PROTEIN,DNMT1,1,DailyMed:setid=3495a71a-cc04-4776-851f-f185956f32af#section-12; Wikipedia:Azacitidine; Wikipedia:DNA_methylation,0
+CHEMBL1489,Azacitidine,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:setid=3495a71a-cc04-4776-851f-f185956f32af#section-12; Wikipedia:Azacitidine; Wikipedia:DNA_methylation,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL1489,Azacitidine,INHIBITOR,RNA inhibitor,CHEMBL2311222,NUCLEIC-ACID,,1,DailyMed:setid=3495a71a-cc04-4776-851f-f185956f32af#section-12; Wikipedia:Azacitidine; Wikipedia:DNA_methylation,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL1554,Dactinomycin,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,FDA:label/2012/050682s029s030lbl.pdf; PubMed:23144800,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL1580,Pentostatin,INHIBITOR,Adenosine deaminase inhibitor,CHEMBL1910,SINGLE PROTEIN,ADA,1,DailyMed:setid=674e0e6d-46ed-4868-9196-04019d667716,0
+CHEMBL1585,Pipobroman,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,PubMed:17352450,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL1619,Cladribine,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:setid=a2592a9b-bca6-4a5a-89c2-855a0634d5fe,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL1742982,Aflibercept,INHIBITOR,Vascular endothelial growth factor A inhibitor,CHEMBL1783,SINGLE PROTEIN,VEGFA,1,DailyMed:setid=f6725df6-50ee-4b0a-b900-d02ba634395d; DailyMed:setid=f96cfd69-da34-41ee-90a9-610a4655cd1c,0
+CHEMBL1742982,Aflibercept,INHIBITOR,Placenta growth factor inhibitor,CHEMBL1697671,SINGLE PROTEIN,PGF,1,DailyMed:setid=f6725df6-50ee-4b0a-b900-d02ba634395d; DailyMed:setid=f96cfd69-da34-41ee-90a9-610a4655cd1c,0
+CHEMBL1742994,Brentuximab vedotin,INHIBITOR,Tubulin inhibitor,CHEMBL2095182,PROTEIN COMPLEX GROUP,TUBA1A; TUBA1B; TUBA1C; TUBA3C; TUBA3E; TUBA4A; TUBB; TUBB1; TUBB2A; TUBB2B; TUBB3; TUBB4A; TUBB4B; TUBB6; TUBB8,1,DailyMed:setid=3904f8dd-1aef-3490-e48f-bd55f32ed67f; PubMed:12714494; PubMed:23515511,excluded: target is not a single protein (PROTEIN COMPLEX GROUP)
+CHEMBL1742994,Brentuximab vedotin,BINDING AGENT,Tumor necrosis factor receptor superfamily member 8 binding agent,CHEMBL2364161,SINGLE PROTEIN,TNFRSF8,1,DailyMed:setid=3904f8dd-1aef-3490-e48f-bd55f32ed67f; PubMed:23515511,excluded: action type not directional (BINDING AGENT)
+CHEMBL1743010,Elotuzumab,INHIBITOR,SLAM family member 7 inhibitor,CHEMBL3559386,SINGLE PROTEIN,SLAMF7,1,DailyMed:setid=80686b7e-f6f4-4154-b5c0-c846425e2d91,0
+CHEMBL1743043,Moxetumomab Pasudotox,BINDING AGENT,CD22 binding agent,CHEMBL3218,SINGLE PROTEIN,CD22,1,FDA:label/2018/761104s000lbl.pdf; PubMed:22003067; PubMed:2885323,excluded: action type not directional (BINDING AGENT)
+CHEMBL1743043,Moxetumomab Pasudotox,INHIBITOR,Elongation factor 2 inhibitor,CHEMBL1795108,SINGLE PROTEIN,EEF2,1,FDA:label/2018/761104s000lbl.pdf; PubMed:2885323,0
+CHEMBL1743047,Necitumumab,INHIBITOR,Epidermal growth factor receptor erbB1 inhibitor,CHEMBL203,SINGLE PROTEIN,EGFR,1,DailyMed:setid=89bcf553-669a-40b0-a9d7-67a5c1d2f591,0
+CHEMBL1743062,Ramucirumab,INHIBITOR,Vascular endothelial growth factor receptor 2 inhibitor,CHEMBL279,SINGLE PROTEIN,KDR,1,FDA:label/2014/125477lbl.pdf,0
+CHEMBL1743082,Trastuzumab Emtansine,BINDING AGENT,Receptor protein-tyrosine kinase erbB-2 binding agent,CHEMBL1824,SINGLE PROTEIN,ERBB2,1,DailyMed:setid=23f3c1f4-0fc8-4804-a9e3-04cf25dd302e; DailyMed:setid=23f3c1f4-0fc8-4804-a9e3-04cf25dd302e#nlm34090-1; PubMed:22044006; PubMed:23798344,excluded: action type not directional (BINDING AGENT)
+CHEMBL1743082,Trastuzumab Emtansine,INHIBITOR,Tubulin inhibitor,CHEMBL2095182,PROTEIN COMPLEX GROUP,TUBA1A; TUBA1B; TUBA1C; TUBA3C; TUBA3E; TUBA4A; TUBB; TUBB1; TUBB2A; TUBB2B; TUBB3; TUBB4A; TUBB4B; TUBB6; TUBB8,1,DailyMed:setid=23f3c1f4-0fc8-4804-a9e3-04cf25dd302e; DailyMed:setid=23f3c1f4-0fc8-4804-a9e3-04cf25dd302e#nlm34090-1; PubMed:1241159; PubMed:22044006; PubMed:23798344,excluded: target is not a single protein (PROTEIN COMPLEX GROUP)
+CHEMBL1743082,Trastuzumab Emtansine,BINDING AGENT,Receptor protein-tyrosine kinase erbB-2 binding agent,CHEMBL1824,SINGLE PROTEIN,ERBB2,1,PubMed:27052654,excluded: action type not directional (BINDING AGENT)
+CHEMBL1750,Clofarabine,INHIBITOR,Ribonucleoside-diphosphate reductase RR1 inhibitor,CHEMBL2095215,PROTEIN COMPLEX GROUP,RRM1; RRM2; RRM2B,1,DailyMed:setid=c35903cd-e9eb-4841-93d1-fc14249d1e9f#section-12; PubMed:21628579; PubMed:23115527,excluded: target is not a single protein (PROTEIN COMPLEX GROUP)
+CHEMBL1750,Clofarabine,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:setid=c35903cd-e9eb-4841-93d1-fc14249d1e9f#section-12,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL1750,Clofarabine,INHIBITOR,DNA polymerase (alpha/delta/epsilon) inhibitor,CHEMBL2363042,PROTEIN FAMILY,POLA1; POLA2; POLD1; POLD2; POLD3; POLD4; POLE; POLE2; POLE3; PRIM1; PRIM2,1,DailyMed:setid=c35903cd-e9eb-4841-93d1-fc14249d1e9f#section-12,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL1773,Capecitabine,INHIBITOR,Thymidylate synthase inhibitor,CHEMBL1952,SINGLE PROTEIN,TYMS,1,DailyMed:setid=a1de8bba-3b1d-4c9d-ab8a-32d2c05e67c8#section-13,0
+CHEMBL1773,Capecitabine,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:setid=a1de8bba-3b1d-4c9d-ab8a-32d2c05e67c8#section-13; PubMed:12724731,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL1773,Capecitabine,INHIBITOR,RNA inhibitor,CHEMBL2311222,NUCLEIC-ACID,,1,DailyMed:setid=a1de8bba-3b1d-4c9d-ab8a-32d2c05e67c8#section-13; PubMed:12724731,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL178,Daunorubicin,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:archiveid=215669; DailyMed:archiveid=69731; Wikipedia:Daunorubicin,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL178,Daunorubicin,INHIBITOR,DNA topoisomerase II alpha inhibitor,CHEMBL1806,SINGLE PROTEIN,TOP2A,1,DailyMed:archiveid=215669; DailyMed:archiveid=69731; Wikipedia:Daunorubicin,0
+CHEMBL1789844,Ipilimumab,INHIBITOR,Cytotoxic T-lymphocyte protein 4 inhibitor,CHEMBL2364164,SINGLE PROTEIN,CTLA4,1,DailyMed:setid=2265ef30-253e-11df-8a39-0800200c9a66,0
+CHEMBL180022,Neratinib,INHIBITOR,Epidermal growth factor receptor erbB1 inhibitor,CHEMBL203,SINGLE PROTEIN,EGFR,1,FDA:label/2017/208051s000lbl.pdf; PubMed:15715478; PubMed:26089701,0
+CHEMBL180022,Neratinib,INHIBITOR,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL1824,SINGLE PROTEIN,ERBB2,1,FDA:label/2017/208051s000lbl.pdf; PubMed:15715478; PubMed:26089701,0
+CHEMBL180022,Neratinib,INHIBITOR,Receptor protein-tyrosine kinase erbB-4 inhibitor,CHEMBL3009,SINGLE PROTEIN,ERBB4,1,FDA:label/2017/208051s000lbl.pdf; PubMed:15715478; PubMed:26089701,0
+CHEMBL185,Fluorouracil,INHIBITOR,Thymidylate synthase inhibitor,CHEMBL1952,SINGLE PROTEIN,TYMS,1,DailyMed:setid=b90e0da7-f702-4f09-9488-74f2bb20e9ac,0
+CHEMBL185,Fluorouracil,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,PubMed:12724731,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL185,Fluorouracil,INHIBITOR,RNA inhibitor,CHEMBL2311222,NUCLEIC-ACID,,1,PubMed:12724731,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL1852688,Infigratinib,INHIBITOR,Fibroblast growth factor receptor inhibitor,CHEMBL2095217,PROTEIN FAMILY,FGFR1; FGFR2; FGFR3; FGFR4,1,Other:http://www.novartisoncology.com/ct/pipelineDetails?compound=BGJ398&diseaseAcr=GBM; PubMed:21936542,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL1873475,Ibrutinib,INHIBITOR,Tyrosine-protein kinase BTK inhibitor,CHEMBL5251,SINGLE PROTEIN,BTK,1,FDA:label/2013/205552lbl.pdf,0
+CHEMBL189963,Palbociclib,INHIBITOR,CDK6/cyclin D1 inhibitor,CHEMBL2111455,PROTEIN COMPLEX,CCND1; CDK6,1,FDA:label/2015/207103s000lbl.pdf,excluded: target is not a single protein (PROTEIN COMPLEX)
+CHEMBL189963,Palbociclib,INHIBITOR,Cyclin-dependent kinase 4/cyclin D1 inhibitor,CHEMBL1907601,PROTEIN COMPLEX,CCND1; CDK4,1,FDA:label/2015/207103s000lbl.pdf,excluded: target is not a single protein (PROTEIN COMPLEX)
+CHEMBL1908360,Everolimus,INHIBITOR,FK506-binding protein 1A inhibitor,CHEMBL1902,SINGLE PROTEIN,FKBP1A,1,DailyMed:setid=2150f73a-179b-4afc-b8ce-67c85cc72f04#section-13,0
+CHEMBL1946170,Regorafenib,INHIBITOR,Tyrosine-protein kinase ABL inhibitor,CHEMBL1862,SINGLE PROTEIN,ABL1,1,Expert:REGORAFENIB; FDA:label/2012/203085lbl.pdf,0
+CHEMBL1946170,Regorafenib,INHIBITOR,Serine/threonine-protein kinase RAF inhibitor,CHEMBL1906,SINGLE PROTEIN,RAF1,1,Expert:REGORAFENIB; FDA:label/2012/203085lbl.pdf,0
+CHEMBL1946170,Regorafenib,INHIBITOR,Stem cell growth factor receptor inhibitor,CHEMBL1936,SINGLE PROTEIN,KIT,1,Expert:REGORAFENIB; FDA:label/2012/203085lbl.pdf,0
+CHEMBL1946170,Regorafenib,INHIBITOR,Fibroblast growth factor receptor 1 inhibitor,CHEMBL3650,SINGLE PROTEIN,FGFR1,1,Expert:REGORAFENIB; FDA:label/2012/203085lbl.pdf,0
+CHEMBL1946170,Regorafenib,INHIBITOR,MAP kinase p38 beta inhibitor,CHEMBL3961,SINGLE PROTEIN,MAPK11,1,Expert:REGORAFENIB; FDA:label/2012/203085lbl.pdf,0
+CHEMBL1946170,Regorafenib,INHIBITOR,Fibroblast growth factor receptor 2 inhibitor,CHEMBL4142,SINGLE PROTEIN,FGFR2,1,Expert:REGORAFENIB; FDA:label/2012/203085lbl.pdf,0
+CHEMBL1946170,Regorafenib,INHIBITOR,Tyrosine-protein kinase FRK inhibitor,CHEMBL4223,SINGLE PROTEIN,FRK,1,Expert:REGORAFENIB; FDA:label/2012/203085lbl.pdf,0
+CHEMBL1946170,Regorafenib,INHIBITOR,Discoidin domain-containing receptor 2 inhibitor,CHEMBL5122,SINGLE PROTEIN,DDR2,1,Expert:REGORAFENIB; FDA:label/2012/203085lbl.pdf,0
+CHEMBL1946170,Regorafenib,INHIBITOR,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL5145,SINGLE PROTEIN,BRAF,1,Expert:REGORAFENIB; FDA:label/2012/203085lbl.pdf,0
+CHEMBL1946170,Regorafenib,INHIBITOR,Tyrosine-protein kinase TIE-2 inhibitor,CHEMBL4128,SINGLE PROTEIN,TEK,1,Expert:REGORAFENIB; FDA:label/2012/203085lbl.pdf,0
+CHEMBL1946170,Regorafenib,INHIBITOR,Platelet-derived growth factor receptor inhibitor,CHEMBL2095189,PROTEIN COMPLEX,PDGFRA; PDGFRB,1,Expert:REGORAFENIB; FDA:label/2012/203085lbl.pdf,excluded: target is not a single protein (PROTEIN COMPLEX)
+CHEMBL1946170,Regorafenib,INHIBITOR,Vascular endothelial growth factor receptor inhibitor,CHEMBL2095227,PROTEIN FAMILY,FLT1; FLT4; KDR,1,Expert:REGORAFENIB; FDA:label/2012/203085lbl.pdf,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL1946170,Regorafenib,INHIBITOR,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL2041,SINGLE PROTEIN,RET,1,Expert:REGORAFENIB; FDA:label/2012/203085lbl.pdf,0
+CHEMBL1946170,Regorafenib,INHIBITOR,Ephrin type-A receptor 2 inhibitor,CHEMBL2068,SINGLE PROTEIN,EPHA2,1,FDA:label/2012/203085lbl.pdf,0
+CHEMBL1946170,Regorafenib,INHIBITOR,Nerve growth factor receptor Trk-A inhibitor,CHEMBL2815,SINGLE PROTEIN,NTRK1,1,FDA:label/2012/203085lbl.pdf,0
+CHEMBL1983268,Entrectinib,INHIBITOR,Neurotrophic tyrosine kinase receptor inhibitor,CHEMBL3559684,PROTEIN FAMILY,NTRK1; NTRK2; NTRK3,1,FDA:label/2019/212725s000lbl.pdf,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL1983268,Entrectinib,INHIBITOR,Proto-oncogene tyrosine-protein kinase ROS inhibitor,CHEMBL5568,SINGLE PROTEIN,ROS1,1,FDA:label/2019/212725s000lbl.pdf,0
+CHEMBL1983268,Entrectinib,INHIBITOR,ALK tyrosine kinase receptor inhibitor,CHEMBL4247,SINGLE PROTEIN,ALK,1,FDA:label/2019/212725s000lbl.pdf,0
+CHEMBL20883,"Tegafur,Gimeracil,Oteracil",INHIBITOR,RNA inhibitor,CHEMBL2311222,NUCLEIC-ACID,,1,EMA:https://www.ema.europa.eu/en/documents/product-information/teysuno-epar-product-information_en.pdf,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL20883,"Tegafur,Gimeracil,Oteracil",INHIBITOR,Thymidylate synthase inhibitor,CHEMBL1952,SINGLE PROTEIN,TYMS,1,EMA:https://www.ema.europa.eu/en/documents/product-information/teysuno-epar-product-information_en.pdf,0
+CHEMBL20883,"Tegafur,Gimeracil,Oteracil",INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,EMA:https://www.ema.europa.eu/en/documents/product-information/teysuno-epar-product-information_en.pdf,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL2103875,Trametinib,INHIBITOR,Dual specificity mitogen-activated protein kinase kinase; MEK1/2 inhibitor,CHEMBL2111289,PROTEIN FAMILY,MAP2K1; MAP2K2,1,FDA:label/2018/204114s007lbl.pdf; FDA:nda/2013/204114Orig1s000ClinPharmR.pdf; Other:https://www.ema.europa.eu/en/documents/product-information/mekinist-epar-product-information_en.pdf,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL2108658,Tremelimumab,INHIBITOR,Cytotoxic T-lymphocyte protein 4 inhibitor,CHEMBL2364164,SINGLE PROTEIN,CTLA4,1,PubMed:22437870; PubMed:27042127,0
+CHEMBL2108738,Nivolumab,INHIBITOR,Programmed cell death protein 1 inhibitor,CHEMBL3307223,SINGLE PROTEIN,PDCD1,1,FDA:label/2015/125527s000lbl.pdf,0
+CHEMBL2110725,Vinflunine,INHIBITOR,Tubulin inhibitor,CHEMBL2095182,PROTEIN COMPLEX GROUP,TUBA1A; TUBA1B; TUBA1C; TUBA3C; TUBA3E; TUBA4A; TUBB; TUBB1; TUBB2A; TUBB2B; TUBB3; TUBB4A; TUBB4B; TUBB6; TUBB8,1,PubMed:19337431,excluded: target is not a single protein (PROTEIN COMPLEX GROUP)
+CHEMBL2110732,Dacomitinib,INHIBITOR,Epidermal growth factor receptor erbB1 inhibitor,CHEMBL203,SINGLE PROTEIN,EGFR,1,Other:https://www.pfizer.com/files/news/esmo/dacomitinib_fact_sheet.pdf; PubMed:18089823,0
+CHEMBL2110732,Dacomitinib,INHIBITOR,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL1824,SINGLE PROTEIN,ERBB2,1,Other:https://www.pfizer.com/files/news/esmo/dacomitinib_fact_sheet.pdf; PubMed:18089823,0
+CHEMBL2110732,Dacomitinib,INHIBITOR,Receptor protein-tyrosine kinase erbB-4 inhibitor,CHEMBL3009,SINGLE PROTEIN,ERBB4,1,Other:https://www.pfizer.com/files/news/esmo/dacomitinib_fact_sheet.pdf; PubMed:18089823,0
+CHEMBL2110824,Buserelin,AGONIST,Gonadotropin-releasing hormone receptor agonist,CHEMBL1855,SINGLE PROTEIN,GNRHR,1,PubMed:27974874; PubMed:28300875; PubMed:28505621,1
+CHEMBL2111084,Belotecan,INHIBITOR,DNA topoisomerase I inhibitor,CHEMBL1781,SINGLE PROTEIN,TOP1,1,PubMed:20566426; PubMed:21523722; PubMed:29312794,0
+CHEMBL2141296,Ixazomib,INHIBITOR,26S proteasome inhibitor,CHEMBL2364701,PROTEIN COMPLEX,ADRM1; PSMA1; PSMA2; PSMA3; PSMA4; PSMA5; PSMA6; PSMA7; PSMA8; PSMB1; PSMB10; PSMB11; PSMB2; PSMB3; PSMB4; PSMB5; PSMB6; PSMB7; PSMB8; PSMB9; PSMC1; PSMC2; PSMC3; PSMC4; PSMC5; PSMC6; PSMD1; PSMD11; PSMD12; PSMD13; PSMD14; PSMD2; PSMD3; PSMD4; PSMD6; PSMD7; PSMD8; SEM1,1,EMA:https://www.ema.europa.eu/en/documents/assessment-report/ninlaro-epar-public-assessment-report_en.pdf; PubMed:23995855; PubMed:30867233,excluded: target is not a single protein (PROTEIN COMPLEX)
+CHEMBL2146883,Cobimetinib,INHIBITOR,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL3587,SINGLE PROTEIN,MAP2K1,1,PubMed:22084396; PubMed:22496205,0
+CHEMBL2146883,Cobimetinib,INHIBITOR,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL2964,SINGLE PROTEIN,MAP2K2,1,PubMed:22084396; PubMed:22496205,0
+CHEMBL2216870,Idelalisib,INHIBITOR,PI3-kinase p110-delta subunit inhibitor,CHEMBL3130,SINGLE PROTEIN,PIK3CD,1,FDA:label/2014/206545lbl.pdf,0
+CHEMBL225071,Raltitrexed,INHIBITOR,Thymidylate synthase inhibitor,CHEMBL1952,SINGLE PROTEIN,TYMS,1,PubMed:12056700; PubMed:9579851,0
+CHEMBL225072,Pemetrexed,INHIBITOR,Dihydrofolate reductase inhibitor,CHEMBL202,SINGLE PROTEIN,DHFR,1,FDA:label/2004/021677lbl.pdf,0
+CHEMBL225072,Pemetrexed,INHIBITOR,Thymidylate synthase inhibitor,CHEMBL1952,SINGLE PROTEIN,TYMS,1,FDA:label/2004/021677lbl.pdf,0
+CHEMBL225072,Pemetrexed,INHIBITOR,GAR transformylase inhibitor,CHEMBL3972,SINGLE PROTEIN,GART,1,FDA:label/2004/021677lbl.pdf,0
+CHEMBL2325741,Capivasertib,INHIBITOR,Serine/threonine-protein kinase AKT inhibitor,CHEMBL2111353,PROTEIN FAMILY,AKT1; AKT2; AKT3,1,PubMed:32035019,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL2364649,Margetuximab,INHIBITOR,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL1824,SINGLE PROTEIN,ERBB2,1,Other:http://meetinglibrary.asco.org/content/164475-176,0
+CHEMBL2396661,Alpelisib,INHIBITOR,PI3-kinase p110-alpha subunit inhibitor,CHEMBL4005,SINGLE PROTEIN,PIK3CA,1,PubMed:15705718; PubMed:23726034,0
+CHEMBL2403108,Ceritinib,INHIBITOR,ALK tyrosine kinase receptor inhibitor,CHEMBL4247,SINGLE PROTEIN,ALK,1,FDA:label/2014/205755s000lbl.pdf,0
+CHEMBL2403108,Ceritinib,INHIBITOR,EML4-ALK inhibitor,CHEMBL3883330,CHIMERIC PROTEIN,ALK; EML4,1,FDA:label/2017/205755s009lbl.pdf,excluded: target is not a single protein (CHIMERIC PROTEIN)
+CHEMBL2403108,Ceritinib,INHIBITOR,NPM/ALK (Nucleophosmin/ALK tyrosine kinase receptor) inhibitor,CHEMBL2111387,CHIMERIC PROTEIN,ALK; NPM1,1,FDA:label/2017/205755s009lbl.pdf,excluded: target is not a single protein (CHIMERIC PROTEIN)
+CHEMBL24828,Vandetanib,INHIBITOR,Tyrosine-protein kinase SRC inhibitor,CHEMBL267,SINGLE PROTEIN,SRC,1,DailyMed:setid=4dc7f0af-77fb-4eec-46b9-dd1c2dcb4525#section-13,0
+CHEMBL24828,Vandetanib,INHIBITOR,Tyrosine-protein kinase BRK inhibitor,CHEMBL4601,SINGLE PROTEIN,PTK6,1,DailyMed:setid=4dc7f0af-77fb-4eec-46b9-dd1c2dcb4525#section-13,0
+CHEMBL24828,Vandetanib,INHIBITOR,Tyrosine-protein kinase TIE-2 inhibitor,CHEMBL4128,SINGLE PROTEIN,TEK,1,DailyMed:setid=4dc7f0af-77fb-4eec-46b9-dd1c2dcb4525#section-13,0
+CHEMBL24828,Vandetanib,INHIBITOR,Vascular endothelial growth factor receptor inhibitor,CHEMBL2095227,PROTEIN FAMILY,FLT1; FLT4; KDR,1,DailyMed:setid=4dc7f0af-77fb-4eec-46b9-dd1c2dcb4525#section-13,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL24828,Vandetanib,INHIBITOR,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL2041,SINGLE PROTEIN,RET,1,DailyMed:setid=4dc7f0af-77fb-4eec-46b9-dd1c2dcb4525#section-13,0
+CHEMBL24828,Vandetanib,INHIBITOR,Ephrin receptor inhibitor,CHEMBL2363043,PROTEIN FAMILY,EPHA1; EPHA10; EPHA2; EPHA3; EPHA4; EPHA5; EPHA6; EPHA7; EPHA8; EPHB1; EPHB2; EPHB3; EPHB4; EPHB6,1,DailyMed:setid=4dc7f0af-77fb-4eec-46b9-dd1c2dcb4525#section-13,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL24828,Vandetanib,INHIBITOR,Epidermal growth factor receptor inhibitor,CHEMBL2363049,PROTEIN FAMILY,EGFR; ERBB2; ERBB3; ERBB4,1,DailyMed:setid=4dc7f0af-77fb-4eec-46b9-dd1c2dcb4525#section-13,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL288441,Bosutinib,INHIBITOR,Tyrosine-protein kinase ABL inhibitor,CHEMBL1862,SINGLE PROTEIN,ABL1,1,Expert:BOSUTINIB,0
+CHEMBL288441,Bosutinib,INHIBITOR,Tyrosine-protein kinase SRC inhibitor,CHEMBL267,SINGLE PROTEIN,SRC,1,Expert:BOSUTINIB,0
+CHEMBL288441,Bosutinib,INHIBITOR,Tyrosine-protein kinase HCK inhibitor,CHEMBL3234,SINGLE PROTEIN,HCK,1,Expert:BOSUTINIB,0
+CHEMBL288441,Bosutinib,INHIBITOR,Tyrosine-protein kinase Lyn inhibitor,CHEMBL3905,SINGLE PROTEIN,LYN,1,Expert:BOSUTINIB,0
+CHEMBL3137309,Venetoclax,INHIBITOR,Apoptosis regulator Bcl-2 inhibitor,CHEMBL4860,SINGLE PROTEIN,BCL2,1,FDA:label/2016/208573s000lbl.pdf,0
+CHEMBL3137320,Talazoparib,INHIBITOR,Poly [ADP-ribose] polymerase-1 inhibitor,CHEMBL3105,SINGLE PROTEIN,PARP1,1,PubMed:23881923,0
+CHEMBL3137320,Talazoparib,INHIBITOR,Poly [ADP-ribose] polymerase 2 inhibitor,CHEMBL5366,SINGLE PROTEIN,PARP2,1,PubMed:23881923,0
+CHEMBL3137343,Pembrolizumab,INHIBITOR,Programmed cell death protein 1 inhibitor,CHEMBL3307223,SINGLE PROTEIN,PDCD1,1,FDA:label/2014/125514lbl.pdf,0
+CHEMBL3187723,Binimetinib,INHIBITOR,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL3587,SINGLE PROTEIN,MAP2K1,1,Other:http://arraybiopharma.com/files/4813/9810/8023/PubAttachment490.pdf; Other:http://arraybiopharma.com/product-pipeline/binimetinib/; PubMed:23414587,0
+CHEMBL3187723,Binimetinib,INHIBITOR,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL2964,SINGLE PROTEIN,MAP2K2,1,Other:http://arraybiopharma.com/files/4813/9810/8023/PubAttachment490.pdf; Other:http://arraybiopharma.com/product-pipeline/binimetinib/; PubMed:23414587,0
+CHEMBL3188267,Capmatinib,INHIBITOR,Hepatocyte growth factor receptor inhibitor,CHEMBL3717,SINGLE PROTEIN,MET,1,Other:http://cancerres.aacrjournals.org/content/68/9_Supplement/2577; Other:http://clincancerres.aacrjournals.org/content/early/2011/09/14/1078-0432.CCR-11-1157.full.pdf; Other:http://www.novartisoncology.com/ct/pipelineDetails?compound=INC280&diseaseAcr=NSCLC,0
+CHEMBL3218576,Copanlisib,INHIBITOR,PI3-kinase p110-alpha subunit inhibitor,CHEMBL4005,SINGLE PROTEIN,PIK3CA,1,FDA:label/2017/209936s000lbl.pdf; PubMed:15705718; PubMed:24170767,0
+CHEMBL3218576,Copanlisib,INHIBITOR,PI3-kinase p110-delta subunit inhibitor,CHEMBL3130,SINGLE PROTEIN,PIK3CD,1,FDA:label/2017/209936s000lbl.pdf; PubMed:15705718; PubMed:24170767,0
+CHEMBL3286830,Lorlatinib,INHIBITOR,ALK tyrosine kinase receptor inhibitor,CHEMBL4247,SINGLE PROTEIN,ALK,1,FDA:label/2018/210868s000lbl.pdf,0
+CHEMBL3286830,Lorlatinib,INHIBITOR,EML4-ALK inhibitor,CHEMBL3883330,CHIMERIC PROTEIN,ALK; EML4,1,FDA:label/2018/210868s000lbl.pdf,excluded: target is not a single protein (CHIMERIC PROTEIN)
+CHEMBL3301582,Polatuzumab Vedotin,BINDING AGENT,B-cell antigen receptor complex-associated protein beta chain binding agent,CHEMBL3712852,SINGLE PROTEIN,CD79B,1,PubMed:25925619,excluded: action type not directional (BINDING AGENT)
+CHEMBL3301582,Polatuzumab Vedotin,INHIBITOR,Tubulin inhibitor,CHEMBL2095182,PROTEIN COMPLEX GROUP,TUBA1A; TUBA1B; TUBA1C; TUBA3C; TUBA3E; TUBA4A; TUBB; TUBB1; TUBB2A; TUBB2B; TUBB3; TUBB4A; TUBB4B; TUBB6; TUBB8,1,FDA:label/2019/761121s000lbl.pdf,excluded: target is not a single protein (PROTEIN COMPLEX GROUP)
+CHEMBL3301587,Durvalumab,INHIBITOR,Programmed cell death 1 ligand 1 inhibitor,CHEMBL3580522,SINGLE PROTEIN,CD274,1,PubMed:25943534; PubMed:27265743,0
+CHEMBL3301589,Enfortumab Vedotin,BINDING AGENT,Nectin-4 binding agent,CHEMBL3712928,SINGLE PROTEIN,NECTIN4,1,PubMed:27013195,excluded: action type not directional (BINDING AGENT)
+CHEMBL3301589,Enfortumab Vedotin,INHIBITOR,Tubulin inhibitor,CHEMBL2095182,PROTEIN COMPLEX GROUP,TUBA1A; TUBA1B; TUBA1C; TUBA3C; TUBA3E; TUBA4A; TUBB; TUBB1; TUBB2A; TUBB2B; TUBB3; TUBB4A; TUBB4B; TUBB6; TUBB8,1,PubMed:27518442; PubMed:28353637,excluded: target is not a single protein (PROTEIN COMPLEX GROUP)
+CHEMBL3301610,Abemaciclib,INHIBITOR,Cyclin-dependent kinase 4 inhibitor,CHEMBL331,SINGLE PROTEIN,CDK4,1,PubMed:24919854,0
+CHEMBL3301610,Abemaciclib,INHIBITOR,Cyclin-dependent kinase 6 inhibitor,CHEMBL2508,SINGLE PROTEIN,CDK6,1,PubMed:24919854,0
+CHEMBL3301612,Encorafenib,INHIBITOR,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL5145,SINGLE PROTEIN,BRAF,1,DOI:10.1158/1538-7445.AM2012-3790; PubMed:23617957,0
+CHEMBL3301622,Gilteritinib,INHIBITOR,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL1974,SINGLE PROTEIN,FLT3,1,FDA:label/2018/211349s000lbl.pdf; Other:http://meetinglibrary.asco.org/content/131170-144; PubMed:26555154; PubMed:28516360,0
+CHEMBL3301622,Gilteritinib,INHIBITOR,Tyrosine-protein kinase receptor UFO inhibitor,CHEMBL4895,SINGLE PROTEIN,AXL,1,FDA:label/2018/211349s000lbl.pdf; Other:http://meetinglibrary.asco.org/content/131170-144; PubMed:26555154; PubMed:28516360,0
+CHEMBL3348923,Tovorafenib,INHIBITOR,RAF serine/threonine protein kinase inhibitor,CHEMBL3559685,PROTEIN FAMILY,ARAF; BRAF; RAF1,1,Other:http://www.cancer.gov/publications/dictionaries/cancer-drug?cdrid=710688; Other:http://www.sunesis.com/products-in-development/product/MLN2480.php; PubMed:5653214,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL3353410,Osimertinib,INHIBITOR,Epidermal growth factor receptor erbB1 inhibitor,CHEMBL203,SINGLE PROTEIN,EGFR,1,DailyMed:setid=5e81b4a7-b971-45e1-9c31-29cea8c87ce7; PubMed:24893891; PubMed:25271963,0
+CHEMBL3402762,Tepotinib,INHIBITOR,Hepatocyte growth factor receptor inhibitor,CHEMBL3717,SINGLE PROTEIN,MET,1,PubMed:23553846; PubMed:25110867,0
+CHEMBL34259,Methotrexate,INHIBITOR,Dihydrofolate reductase inhibitor,CHEMBL202,SINGLE PROTEIN,DHFR,1,DailyMed:setid=9ab8ce16-f7de-41d4-a4c8-1c742621b6d5,0
+CHEMBL343448,Romidepsin,INHIBITOR,Histone deacetylase inhibitor,CHEMBL2093865,PROTEIN FAMILY,HDAC1; HDAC10; HDAC11; HDAC2; HDAC3; HDAC4; HDAC5; HDAC6; HDAC7; HDAC8; HDAC9,1,DailyMed:setid=03b39d40-90fe-11df-9de6-0002a5d5c51b#section-13; Wikipedia:Histone_deacetylase_inhibitor; Wikipedia:Romidepsin,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL3545110,Ribociclib,INHIBITOR,Cyclin-dependent kinase 4 inhibitor,CHEMBL331,SINGLE PROTEIN,CDK4,1,Other:http://mct.aacrjournals.org/content/12/11_Supplement/PR02; PubMed:24045179,0
+CHEMBL3545110,Ribociclib,INHIBITOR,Cyclin-dependent kinase 6 inhibitor,CHEMBL2508,SINGLE PROTEIN,CDK6,1,Other:http://mct.aacrjournals.org/content/12/11_Supplement/PR02; PubMed:24045179,0
+CHEMBL3545131,Isatuximab,INHIBITOR,Lymphocyte differentiation antigen CD38 inhibitor,CHEMBL4660,SINGLE PROTEIN,CD38,1,PubMed:28249894,0
+CHEMBL3545132,Mirvetuximab Soravtansine,BINDING AGENT,Folate receptor alpha binding agent,CHEMBL2121,SINGLE PROTEIN,FOLR1,1,PubMed:27889646,excluded: action type not directional (BINDING AGENT)
+CHEMBL3545132,Mirvetuximab Soravtansine,INHIBITOR,Tubulin inhibitor,CHEMBL2095182,PROTEIN COMPLEX GROUP,TUBA1A; TUBA1B; TUBA1C; TUBA3C; TUBA3E; TUBA4A; TUBB; TUBB1; TUBB2A; TUBB2B; TUBB3; TUBB4A; TUBB4B; TUBB6; TUBB8,1,PubMed:27889646,excluded: target is not a single protein (PROTEIN COMPLEX GROUP)
+CHEMBL3545185,Selinexor,INHIBITOR,Exportin-1 inhibitor,CHEMBL5661,SINGLE PROTEIN,XPO1,1,PubMed:27893412,0
+CHEMBL3545262,Sacituzumab Govitecan,BINDING AGENT,Tumor-associated calcium signal transducer 2 binding agent,CHEMBL3856163,SINGLE PROTEIN,TACSTD2,1,PubMed:28503956; PubMed:28558150,excluded: action type not directional (BINDING AGENT)
+CHEMBL3545262,Sacituzumab Govitecan,INHIBITOR,DNA topoisomerase I inhibitor,CHEMBL1781,SINGLE PROTEIN,TOP1,1,FDA:label/2020/761115s000lbl.pdf,0
+CHEMBL3545311,Brigatinib,INHIBITOR,ALK tyrosine kinase receptor inhibitor,CHEMBL4247,SINGLE PROTEIN,ALK,1,Other:http://www.ariad.com/AP26113; Other:http://www.ariad.com/pdf/Rivera_2012_AACR_POSTER_AP26113_noQRcode.pdf; PubMed:25888090,0
+CHEMBL3545311,Brigatinib,INHIBITOR,Epidermal growth factor receptor erbB1 inhibitor,CHEMBL203,SINGLE PROTEIN,EGFR,1,Other:http://www.ariad.com/AP26113; Other:http://www.ariad.com/pdf/Rivera_2012_AACR_POSTER_AP26113_noQRcode.pdf; PubMed:25888090,0
+CHEMBL3545376,Erdafitinib,INHIBITOR,Fibroblast growth factor receptor inhibitor,CHEMBL2095217,PROTEIN FAMILY,FGFR1; FGFR2; FGFR3; FGFR4,1,FDA:label/2019/212018s000lbl.pdf,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL3701238,Futibatinib,INHIBITOR,Fibroblast growth factor receptor inhibitor,CHEMBL2095217,PROTEIN FAMILY,FGFR1; FGFR2; FGFR3; FGFR4,1,Other:https://cancerres.aacrjournals.org/content/80/22/4986; PubMed:33054456,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL3707227,Atezolizumab,INHIBITOR,Programmed cell death 1 ligand 1 inhibitor,CHEMBL3580522,SINGLE PROTEIN,CD274,1,FDA:label/2016/761034Orig1s000lbl.pdf,0
+CHEMBL3707348,Acalabrutinib,INHIBITOR,Tyrosine-protein kinase BTK inhibitor,CHEMBL5251,SINGLE PROTEIN,BTK,1,FDA:label/2017/210259s000lbl.pdf,0
+CHEMBL38,Tretinoin,AGONIST,Retinoic acid receptor agonist,CHEMBL2363069,PROTEIN FAMILY,RARA; RARB; RARG,1,DailyMed:setid=b6b45969-a64a-4ce3-b3b6-157d2568a301,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL3889654,Larotrectinib,INHIBITOR,Neurotrophic tyrosine kinase receptor inhibitor,CHEMBL3559684,PROTEIN FAMILY,NTRK1; NTRK2; NTRK3,1,Other:http://www.arraybiopharma.com/discovery-collaborations/selected-collaborations/loxo-oncology/; PubMed:26216294,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL3936761,Zanubrutinib,INHIBITOR,Tyrosine-protein kinase BTK inhibitor,CHEMBL5251,SINGLE PROTEIN,BTK,1,FDA:label/2019/213217s000lbl.pdf,0
+CHEMBL3989868,Tucatinib,INHIBITOR,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL1824,SINGLE PROTEIN,ERBB2,1,Other:http://www.arraybiopharma.com/product-pipeline/other-compounds/arry-380-ont-380/; Other:http://www.oncothyreon.com/product_pipeline/ont-380.html,0
+CHEMBL3989958,Ivosidenib,INHIBITOR,Isocitrate dehydrogenase [NADP] cytoplasmic inhibitor,CHEMBL2007625,SINGLE PROTEIN,IDH1,1,FDA:label/2018/211192s000lbl.pdf,0
+CHEMBL3989977,Emapalumab,INHIBITOR,Interferon gamma inhibitor,CHEMBL3286073,SINGLE PROTEIN,IFNG,1,FDA:label/2018/761107lbl.pdf,0
+CHEMBL408513,Belinostat,INHIBITOR,Histone deacetylase inhibitor,CHEMBL2093865,PROTEIN FAMILY,HDAC1; HDAC10; HDAC11; HDAC2; HDAC3; HDAC4; HDAC5; HDAC6; HDAC7; HDAC8; HDAC9,1,FDA:label/2014/206256lbl.pdf,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL413,Nab-Sirolimus,INHIBITOR,FK506-binding protein 1A inhibitor,CHEMBL1902,SINGLE PROTEIN,FKBP1A,1,DailyMed:setid=3275b824-3f82-4151-2ab2-0036a9ba0acc#section-14,0
+CHEMBL414804,Oxaliplatin,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:setid=3c740b43-f396-4998-bc66-6964a21f7161#section-14,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL4204794,Avapritinib,INHIBITOR,Stem cell growth factor receptor inhibitor,CHEMBL1936,SINGLE PROTEIN,KIT,1,FDA:label/2020/212608s000lbl.pdf,0
+CHEMBL4204794,Avapritinib,INHIBITOR,Platelet-derived growth factor receptor alpha inhibitor,CHEMBL2007,SINGLE PROTEIN,PDGFRA,1,FDA:label/2020/212608s000lbl.pdf,0
+CHEMBL4208229,Asciminib,INHIBITOR,Tyrosine-protein kinase ABL inhibitor,CHEMBL1862,SINGLE PROTEIN,ABL1,1,Other:http://www.bloodjournal.org/content/124/21/398?sso-checked=true; Other:http://www.novartisoncology.com/ct/pipelineDetails?compound=ABL001&diseaseAcr=CML,0
+CHEMBL4216467,Ripretinib,INHIBITOR,Stem cell growth factor receptor inhibitor,CHEMBL1936,SINGLE PROTEIN,KIT,1,FDA:label/2020/213973s000lbl.pdf,0
+CHEMBL4216467,Ripretinib,INHIBITOR,Platelet-derived growth factor receptor alpha inhibitor,CHEMBL2007,SINGLE PROTEIN,PDGFRA,1,FDA:label/2020/213973s000lbl.pdf,0
+CHEMBL427,Mechlorethamine,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,FDA:label/2020/202317s009lbl.pdf,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL4279047,Vorasidenib,INHIBITOR,IDH1/IDH2 inhibitor,CHEMBL4523659,PROTEIN FAMILY,IDH1; IDH2,1,PubMed:32071674,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL428647,Nab-Paclitaxel,INHIBITOR,Tubulin inhibitor,CHEMBL2095182,PROTEIN COMPLEX GROUP,TUBA1A; TUBA1B; TUBA1C; TUBA3C; TUBA3E; TUBA4A; TUBB; TUBB1; TUBB2A; TUBB2B; TUBB3; TUBB4A; TUBB4B; TUBB6; TUBB8,1,DailyMed:setid=24d10449-2936-4cd3-b7db-a7683db721e4#section-15; Wikipedia:Microtubule,excluded: target is not a single protein (PROTEIN COMPLEX GROUP)
+CHEMBL4297522,Pemigatinib,INHIBITOR,Fibroblast growth factor receptor 2 inhibitor,CHEMBL4142,SINGLE PROTEIN,FGFR2,1,FDA:label/2020/213736s000lbl.pdf,0
+CHEMBL4297522,Pemigatinib,INHIBITOR,Fibroblast growth factor receptor 3 inhibitor,CHEMBL2742,SINGLE PROTEIN,FGFR3,1,FDA:label/2020/213736s000lbl.pdf,0
+CHEMBL4297522,Pemigatinib,INHIBITOR,Fibroblast growth factor receptor 1 inhibitor,CHEMBL3650,SINGLE PROTEIN,FGFR1,1,FDA:label/2020/213736s000lbl.pdf,0
+CHEMBL4297573,Tagraxofusp,BINDING AGENT,Interleukin-3 receptor subunit alpha binding agent,CHEMBL3712987,SINGLE PROTEIN,IL3RA,1,FDA:label/2018/761116s000lbl.pdf; PubMed:30621282,excluded: action type not directional (BINDING AGENT)
+CHEMBL4297573,Tagraxofusp,INHIBITOR,Elongation factor 2 inhibitor,CHEMBL1795108,SINGLE PROTEIN,EEF2,1,FDA:label/2018/761116s000lbl.pdf; PubMed:30621282,0
+CHEMBL4297610,Olutasidenib,INHIBITOR,Isocitrate dehydrogenase [NADP] cytoplasmic inhibitor,CHEMBL2007625,SINGLE PROTEIN,IDH1,1,PubMed:31971798,0
+CHEMBL4297723,Cemiplimab,INHIBITOR,Programmed cell death protein 1 inhibitor,CHEMBL3307223,SINGLE PROTEIN,PDCD1,1,FDA:label/2018/761097s000lbl.pdf,0
+CHEMBL4297774,Amivantamab,INHIBITOR,Epidermal growth factor receptor erbB1 inhibitor,CHEMBL203,SINGLE PROTEIN,EGFR,1,PubMed:32414908,0
+CHEMBL4297774,Amivantamab,INHIBITOR,Hepatocyte growth factor receptor inhibitor,CHEMBL3717,SINGLE PROTEIN,MET,1,PubMed:32414908,0
+CHEMBL4297840,Tislelizumab,INHIBITOR,Programmed cell death protein 1 inhibitor,CHEMBL3307223,SINGLE PROTEIN,PDCD1,1,Other:https://ir.beigene.com/news-releases/news-release-details/beigene-announces-phase-3-trial-tislelizumab-combined; Other:https://www.novartis.com/news/media-releases/novartis-strengthens-oncology-pipeline-successful-closing-tislelizumab-licensing; PubMed:33044117,0
+CHEMBL4297841,Tisotumab Vedotin,INHIBITOR,Tubulin inhibitor,CHEMBL2095182,PROTEIN COMPLEX GROUP,TUBA1A; TUBA1B; TUBA1C; TUBA3C; TUBA3E; TUBA4A; TUBB; TUBB1; TUBB2A; TUBB2B; TUBB3; TUBB4A; TUBB4B; TUBB6; TUBB8,1,PubMed:31796521,excluded: target is not a single protein (PROTEIN COMPLEX GROUP)
+CHEMBL4297841,Tisotumab Vedotin,BINDING AGENT,Coagulation factor III binding agent,CHEMBL4081,SINGLE PROTEIN,F3,1,PubMed:31796521,excluded: action type not directional (BINDING AGENT)
+CHEMBL4297844,Trastuzumab Deruxtecan,BINDING AGENT,Receptor protein-tyrosine kinase erbB-2 binding agent,CHEMBL1824,SINGLE PROTEIN,ERBB2,1,FDA:label/2019/761139s000lbl.pdf,excluded: action type not directional (BINDING AGENT)
+CHEMBL4297844,Trastuzumab Deruxtecan,INHIBITOR,DNA topoisomerase I inhibitor,CHEMBL1781,SINGLE PROTEIN,TOP1,1,FDA:label/2019/761139s000lbl.pdf,0
+CHEMBL4298138,Repotrectinib,INHIBITOR,Nerve growth factor receptor Trk-A inhibitor,CHEMBL2815,SINGLE PROTEIN,NTRK1,1,FDA:label/2023/218213s000lbl.pdf,0
+CHEMBL4298138,Repotrectinib,INHIBITOR,Neurotrophic tyrosine kinase receptor type 2 inhibitor,CHEMBL4898,SINGLE PROTEIN,NTRK2,1,FDA:label/2023/218213s000lbl.pdf,0
+CHEMBL4298138,Repotrectinib,INHIBITOR,Proto-oncogene tyrosine-protein kinase ROS inhibitor,CHEMBL5568,SINGLE PROTEIN,ROS1,1,FDA:label/2023/218213s000lbl.pdf,0
+CHEMBL4298138,Repotrectinib,INHIBITOR,NT-3 growth factor receptor inhibitor,CHEMBL5608,SINGLE PROTEIN,NTRK3,1,FDA:label/2023/218213s000lbl.pdf,0
+CHEMBL4298138,Repotrectinib,INHIBITOR,CD74-ROS1 inhibitor,CHEMBL4680046,CHIMERIC PROTEIN,CD74; ROS1,1,FDA:label/2023/218213s000lbl.pdf,excluded: target is not a single protein (CHIMERIC PROTEIN)
+CHEMBL4298138,Repotrectinib,INHIBITOR,ROS1-SDC4 inhibitor,CHEMBL5303568,CHIMERIC PROTEIN,ROS1; SDC4,1,FDA:label/2023/218213s000lbl.pdf,excluded: target is not a single protein (CHIMERIC PROTEIN)
+CHEMBL4298153,Nirogacestat Hydrobromide,INHIBITOR,Gamma-secretase inhibitor,CHEMBL2094135,PROTEIN COMPLEX,APH1A; APH1B; NCSTN; PSEN1; PSEN2; PSENEN,1,FDA:label/2023/217677s000lbl.pdf,excluded: target is not a single protein (PROTEIN COMPLEX)
+CHEMBL4298209,Belantamab Mafodotin,BINDING AGENT,Tumor necrosis factor receptor superfamily member 17 binding agent,CHEMBL4523587,SINGLE PROTEIN,TNFRSF17,1,FDA:label/2020/761158s000lbl.pdf,excluded: action type not directional (BINDING AGENT)
+CHEMBL4298209,Belantamab Mafodotin,INHIBITOR,Tubulin inhibitor,CHEMBL2095182,PROTEIN COMPLEX GROUP,TUBA1A; TUBA1B; TUBA1C; TUBA3C; TUBA3E; TUBA4A; TUBB; TUBB1; TUBB2A; TUBB2B; TUBB3; TUBB4A; TUBB4B; TUBB6; TUBB8,1,FDA:label/2020/761158s000lbl.pdf,excluded: target is not a single protein (PROTEIN COMPLEX GROUP)
+CHEMBL43,Amsacrine,INHIBITOR,DNA topoisomerase II inhibitor,CHEMBL2094255,PROTEIN FAMILY,TOP2A; TOP2B,1,PubMed:1317259; PubMed:15148258; PubMed:22304499; PubMed:23922861; PubMed:7971998,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL4303214,Fruquintinib,INHIBITOR,Vascular endothelial growth factor receptor inhibitor,CHEMBL2095227,PROTEIN FAMILY,FLT1; FLT4; KDR,1,PubMed:25482937,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL43452,Pomalidomide,INHIBITOR,CRL4(CRBN) E3 ubiquitin ligase inhibitor,CHEMBL3833061,PROTEIN COMPLEX,CRBN; CUL4A; DDB1; RBX1,1,PubMed:22552008; PubMed:25043012,excluded: target is not a single protein (PROTEIN COMPLEX)
+CHEMBL44657,Etoposide,INHIBITOR,DNA topoisomerase II inhibitor,CHEMBL2094255,PROTEIN FAMILY,TOP2A; TOP2B,1,DailyMed:setid=508a418e-985f-4208-9324-2230655bb5c2; PubMed:20534341,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL450449,Trabectedin,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:setid=472bd78e-be17-4b9d-90f4-9482c3aec9ff,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL451887,Carfilzomib,INHIBITOR,26S proteasome inhibitor,CHEMBL2364701,PROTEIN COMPLEX,ADRM1; PSMA1; PSMA2; PSMA3; PSMA4; PSMA5; PSMA6; PSMA7; PSMA8; PSMB1; PSMB10; PSMB11; PSMB2; PSMB3; PSMB4; PSMB5; PSMB6; PSMB7; PSMB8; PSMB9; PSMC1; PSMC2; PSMC3; PSMC4; PSMC5; PSMC6; PSMD1; PSMD11; PSMD12; PSMD13; PSMD14; PSMD2; PSMD3; PSMD4; PSMD6; PSMD7; PSMD8; SEM1,1,FDA:label/2012/202714lbl.pdf; PubMed:20116451,excluded: target is not a single protein (PROTEIN COMPLEX)
+CHEMBL4535757,Sotorasib,INHIBITOR,GTPase KRas inhibitor,CHEMBL2189121,SINGLE PROTEIN,KRAS,1,PubMed:31189530; PubMed:31666701; PubMed:31820981; PubMed:32568546,0
+CHEMBL4558324,Lazertinib,INHIBITOR,Epidermal growth factor receptor erbB1 inhibitor,CHEMBL203,SINGLE PROTEIN,EGFR,1,PubMed:34028784,0
+CHEMBL4558324,Lazertinib,INHIBITOR,Epidermal growth factor receptor erbB1 inhibitor,CHEMBL203,SINGLE PROTEIN,EGFR,1,PubMed:34028784,0
+CHEMBL4558324,Lazertinib,INHIBITOR,Epidermal growth factor receptor erbB1 inhibitor,CHEMBL203,SINGLE PROTEIN,EGFR,1,PubMed:34028784,0
+CHEMBL4559134,Selpercatinib,INHIBITOR,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL2041,SINGLE PROTEIN,RET,1,FDA:label/2020/213246s000lbl.pdf,0
+CHEMBL4559134,Selpercatinib,INHIBITOR,Kinesin-1 heavy chain/ Tyrosine-protein kinase receptor RET inhibitor,CHEMBL3430888,CHIMERIC PROTEIN,KIF5B; RET,1,FDA:label/2020/213246s000lbl.pdf,excluded: target is not a single protein (CHIMERIC PROTEIN)
+CHEMBL4559134,Selpercatinib,INHIBITOR,Coiled-coil domain-containing protein 6/Tyrosine-protein kinase receptor RET inhibitor,CHEMBL3430904,CHIMERIC PROTEIN,CCDC6; RET,1,FDA:label/2020/213246s000lbl.pdf,excluded: target is not a single protein (CHIMERIC PROTEIN)
+CHEMBL4585668,Belzutifan,INHIBITOR,Endothelial PAS domain-containing protein 1 inhibitor,CHEMBL1744522,SINGLE PROTEIN,EPAS1,1,ClinicalTrials:NCT04586231; Other:https://ascopubs.org/doi/abs/10.1200/JCO.2021.39.6_suppl.273; Other:https://bit.ly/3cMuNwn,0
+CHEMBL4594350,Adagrasib,INHIBITOR,GTPase KRas inhibitor,CHEMBL2189121,SINGLE PROTEIN,KRAS,1,PubMed:31658955,0
+CHEMBL4650215,Inavolisib,INHIBITOR,PI3-kinase p110-alpha subunit inhibitor,CHEMBL4005,SINGLE PROTEIN,PIK3CA,1,Other:https://cancerres.aacrjournals.org/content/77/13_Supplement/156; Other:https://cancerres.aacrjournals.org/content/77/13_Supplement/DDT02-01; Other:https://cancerres.aacrjournals.org/content/78/4_Supplement/PD4-14; Other:https://cancerres.aacrjournals.org/content/80/4_Supplement/OT1-08-04,0
+CHEMBL4650319,Mobocertinib,INHIBITOR,Epidermal growth factor receptor erbB1 inhibitor,CHEMBL203,SINGLE PROTEIN,EGFR,1,FDA:label/2021/215310s000lbl.pdf,0
+CHEMBL4650485,Pirtobrutinib,INHIBITOR,Tyrosine-protein kinase BTK inhibitor,CHEMBL5251,SINGLE PROTEIN,BTK,1,Other:https://cancerdiscovery.aacrjournals.org/content/11/5/998.1,0
+CHEMBL467,Hydroxyurea,INHIBITOR,Ribonucleoside-diphosphate reductase RR1 inhibitor,CHEMBL2095215,PROTEIN COMPLEX GROUP,RRM1; RRM2; RRM2B,1,DailyMed:setid=740e054b-faac-7c27-f06d-a56efb699355; PubMed:23115527,excluded: target is not a single protein (PROTEIN COMPLEX GROUP)
+CHEMBL468,Thalidomide,INHIBITOR,CRL4(CRBN) E3 ubiquitin ligase inhibitor,CHEMBL3833061,PROTEIN COMPLEX,CRBN; CUL4A; DDB1; RBX1,1,PubMed:22552008; PubMed:25043012,excluded: target is not a single protein (PROTEIN COMPLEX)
+CHEMBL473417,Vismodegib,INHIBITOR,Smoothened homolog inhibitor,CHEMBL5971,SINGLE PROTEIN,SMO,1,FDA:label/2012/203388lbl.pdf,0
+CHEMBL476,Dacarbazine,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:setid=b6b97e41-5f15-498c-abfb-d8443ea4d216,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL501867,Vincristine Liposome,INHIBITOR,Tubulin inhibitor,CHEMBL2095182,PROTEIN COMPLEX GROUP,TUBA1A; TUBA1B; TUBA1C; TUBA3C; TUBA3E; TUBA4A; TUBB; TUBB1; TUBB2A; TUBB2B; TUBB3; TUBB4A; TUBB4B; TUBB6; TUBB8,1,DailyMed:setid=01cee93f-3ab9-44fa-8c9a-dd5958fd2db9; PubMed:22044006,excluded: target is not a single protein (PROTEIN COMPLEX GROUP)
+CHEMBL513,Carmustine,INHIBITOR,Glutathione reductase inhibitor,CHEMBL2755,SINGLE PROTEIN,GSR,1,PubMed:15321730,0
+CHEMBL513,Carmustine,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,FDA:label/2013/017422s046lbl.pdf,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL513,Carmustine,INHIBITOR,RNA inhibitor,CHEMBL2311222,NUCLEIC-ACID,,1,FDA:label/2013/017422s046lbl.pdf,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL514,Lomustine,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,FDA:label/2016/017588s043lbl.pdf,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL515,Chlorambucil,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,ISBN:9780702034718 PP. 677,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL521686,Olaparib,INHIBITOR,"PARP 1, 2 and 3 inhibitor",CHEMBL3390820,PROTEIN FAMILY,PARP1; PARP2; PARP3,1,FDA:label/2014/206162lbl.pdf,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL535,Sunitinib,INHIBITOR,Macrophage colony stimulating factor receptor inhibitor,CHEMBL1844,SINGLE PROTEIN,CSF1R,1,EMA:https://www.ema.europa.eu/en/documents/product-information/sunitinib-accord-epar-product-information_en.pdf,0
+CHEMBL535,Sunitinib,INHIBITOR,Vascular endothelial growth factor receptor 2 inhibitor,CHEMBL279,SINGLE PROTEIN,KDR,1,EMA:https://www.ema.europa.eu/en/documents/product-information/sunitinib-accord-epar-product-information_en.pdf,0
+CHEMBL535,Sunitinib,INHIBITOR,Stem cell growth factor receptor inhibitor,CHEMBL1936,SINGLE PROTEIN,KIT,1,EMA:https://www.ema.europa.eu/en/documents/product-information/sunitinib-accord-epar-product-information_en.pdf,0
+CHEMBL535,Sunitinib,INHIBITOR,Platelet-derived growth factor receptor beta inhibitor,CHEMBL1913,SINGLE PROTEIN,PDGFRB,1,EMA:https://www.ema.europa.eu/en/documents/product-information/sunitinib-accord-epar-product-information_en.pdf,0
+CHEMBL535,Sunitinib,INHIBITOR,Platelet-derived growth factor receptor alpha inhibitor,CHEMBL2007,SINGLE PROTEIN,PDGFRA,1,EMA:https://www.ema.europa.eu/en/documents/product-information/sunitinib-accord-epar-product-information_en.pdf,0
+CHEMBL535,Sunitinib,INHIBITOR,Vascular endothelial growth factor receptor 1 inhibitor,CHEMBL1868,SINGLE PROTEIN,FLT1,1,EMA:https://www.ema.europa.eu/en/documents/product-information/sunitinib-accord-epar-product-information_en.pdf,0
+CHEMBL535,Sunitinib,INHIBITOR,Vascular endothelial growth factor receptor 3 inhibitor,CHEMBL1955,SINGLE PROTEIN,FLT4,1,EMA:https://www.ema.europa.eu/en/documents/product-information/sunitinib-accord-epar-product-information_en.pdf,0
+CHEMBL535,Sunitinib,INHIBITOR,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL1974,SINGLE PROTEIN,FLT3,1,EMA:https://www.ema.europa.eu/en/documents/product-information/sunitinib-accord-epar-product-information_en.pdf,0
+CHEMBL535,Sunitinib,INHIBITOR,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL2041,SINGLE PROTEIN,RET,1,EMA:https://www.ema.europa.eu/en/documents/product-information/sunitinib-accord-epar-product-information_en.pdf,0
+CHEMBL576982,Quizartinib,INHIBITOR,Macrophage colony stimulating factor receptor inhibitor,CHEMBL1844,SINGLE PROTEIN,CSF1R,1,PubMed:19654408; PubMed:23497317,0
+CHEMBL576982,Quizartinib,INHIBITOR,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL1974,SINGLE PROTEIN,FLT3,1,PubMed:19654408; PubMed:23497317,0
+CHEMBL576982,Quizartinib,INHIBITOR,Stem cell growth factor receptor inhibitor,CHEMBL1936,SINGLE PROTEIN,KIT,1,PubMed:19654408; PubMed:23497317,0
+CHEMBL576982,Quizartinib,INHIBITOR,Platelet-derived growth factor receptor inhibitor,CHEMBL2095189,PROTEIN COMPLEX,PDGFRA; PDGFRB,1,PubMed:19654408; PubMed:23497317,excluded: target is not a single protein (PROTEIN COMPLEX)
+CHEMBL576982,Quizartinib,INHIBITOR,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL2041,SINGLE PROTEIN,RET,1,PubMed:19654408; PubMed:23497317,0
+CHEMBL601719,Crizotinib,INHIBITOR,Hepatocyte growth factor receptor inhibitor,CHEMBL3717,SINGLE PROTEIN,MET,1,FDA:label/2012/202570s003lbl.pdf,0
+CHEMBL601719,Crizotinib,INHIBITOR,ALK tyrosine kinase receptor inhibitor,CHEMBL4247,SINGLE PROTEIN,ALK,1,FDA:label/2012/202570s003lbl.pdf,0
+CHEMBL601719,Crizotinib,INHIBITOR,EML4-ALK inhibitor,CHEMBL3883330,CHIMERIC PROTEIN,ALK; EML4,1,FDA:label/2017/202570s021lbl.pdf,excluded: target is not a single protein (CHIMERIC PROTEIN)
+CHEMBL601719,Crizotinib,INHIBITOR,NPM/ALK (Nucleophosmin/ALK tyrosine kinase receptor) inhibitor,CHEMBL2111387,CHIMERIC PROTEIN,ALK; NPM1,1,FDA:label/2017/202570s021lbl.pdf,excluded: target is not a single protein (CHIMERIC PROTEIN)
+CHEMBL601719,Crizotinib,INHIBITOR,Proto-oncogene tyrosine-protein kinase ROS inhibitor,CHEMBL5568,SINGLE PROTEIN,ROS1,1,FDA:label/2017/202570s021lbl.pdf,0
+CHEMBL601719,Crizotinib,INHIBITOR,Macrophage-stimulating protein receptor inhibitor,CHEMBL2689,SINGLE PROTEIN,MST1R,1,FDA:label/2017/202570s021lbl.pdf,0
+CHEMBL608533,Midostaurin,INHIBITOR,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL1974,SINGLE PROTEIN,FLT3,1,PubMed:12124173; PubMed:16969355,0
+CHEMBL608533,Midostaurin,INHIBITOR,Stem cell growth factor receptor inhibitor,CHEMBL1936,SINGLE PROTEIN,KIT,1,PubMed:12124173; PubMed:16969355,0
+CHEMBL608533,Midostaurin,INHIBITOR,Platelet-derived growth factor receptor inhibitor,CHEMBL2095189,PROTEIN COMPLEX,PDGFRA; PDGFRB,1,PubMed:12124173; PubMed:16969355,excluded: target is not a single protein (PROTEIN COMPLEX)
+CHEMBL608533,Midostaurin,INHIBITOR,Protein kinase C (PKC) inhibitor,CHEMBL2093867,PROTEIN FAMILY,PRKCA; PRKCB; PRKCD; PRKCE; PRKCG; PRKCH; PRKCI; PRKCQ; PRKCZ; PRKD1; PRKD3,1,PubMed:12124173; PubMed:16969355,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL608533,Midostaurin,INHIBITOR,Vascular endothelial growth factor receptor 2 inhibitor,CHEMBL279,SINGLE PROTEIN,KDR,1,PubMed:12124173; PubMed:16969355,0
+CHEMBL635,Prednisone,AGONIST,Glucocorticoid receptor agonist,CHEMBL2034,SINGLE PROTEIN,NR3C1,1,ISBN:978-1-889788-85-2; PubMed:22850902; Wikipedia:Glucocorticoid,1
+CHEMBL671,Thiotepa,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,FDA:label/2015/075547Orig1s006lbl.pdf,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL705,Alitretinoin,AGONIST,Retinoid receptor agonist,CHEMBL2363071,PROTEIN FAMILY,RARA; RARB; RARG; RXRA; RXRB; RXRG,1,DailyMed:setid=13c5de6d-d266-4d83-99c4-072ef104e7ff,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL717,Medroxyprogesterone,AGONIST,Progesterone receptor agonist,CHEMBL208,SINGLE PROTEIN,PGR,1,DailyMed:setid=199cf13e-0859-4a73-9b45-e700d0cd1049#nlm34090-1,1
+CHEMBL727,Thioguanine,INHIBITOR,Inosine-5'-monophosphate dehydrogenase (IMPDH) inhibitor,CHEMBL2111369,PROTEIN FAMILY,IMPDH1; IMPDH2,1,FDA:label/2004/12429s022lbl.pdf,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL727,Thioguanine,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,FDA:label/2004/12429s022lbl.pdf,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL803,Cytarabine,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:setid=1315f89d-f530-4dff-98e5-27d51617d4a1,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL803,Cytarabine,INHIBITOR,RNA inhibitor,CHEMBL2311222,NUCLEIC-ACID,,1,DailyMed:setid=1315f89d-f530-4dff-98e5-27d51617d4a1,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL803,Cytarabine,INHIBITOR,DNA polymerase (alpha/delta/epsilon) inhibitor,CHEMBL2363042,PROTEIN FAMILY,POLA1; POLA2; POLD1; POLD2; POLD3; POLD4; POLE; POLE2; POLE3; PRIM1; PRIM2,1,DailyMed:setid=1315f89d-f530-4dff-98e5-27d51617d4a1,excluded: target is not a single protein (PROTEIN FAMILY)
+CHEMBL810,Temozolomide,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:setid=046a9011-3911-4d3f-a15f-fbb56d5aad56#section-12,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL820,Busulfan,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:setid=03dc50f9-c7bd-4c0c-8bbb-c1216ec90c95,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL848,Lenalidomide,INHIBITOR,CRL4(CRBN) E3 ubiquitin ligase inhibitor,CHEMBL3833061,PROTEIN COMPLEX,CRBN; CUL4A; DDB1; RBX1,1,PubMed:22552008; PubMed:25043012,excluded: target is not a single protein (PROTEIN COMPLEX)
+CHEMBL852,Melphalan,INHIBITOR,DNA inhibitor,CHEMBL2311221,NUCLEIC-ACID,,1,DailyMed:setid=9706e9a1-96ab-46b8-8846-32ee9d756b1d,excluded: target is not a single protein (NUCLEIC-ACID)
+CHEMBL92,Docetaxel,STABILISER,Tubulin stabiliser,CHEMBL2095182,PROTEIN COMPLEX GROUP,TUBA1A; TUBA1B; TUBA1C; TUBA3C; TUBA3E; TUBA4A; TUBB; TUBB1; TUBB2A; TUBB2B; TUBB3; TUBB4A; TUBB4B; TUBB6; TUBB8,1,EMA:https://www.ema.europa.eu/en/medicines/human/EPAR/docetaxel-kabi,excluded: target is not a single protein (PROTEIN COMPLEX GROUP)
+CHEMBL939,Gefitinib,INHIBITOR,Epidermal growth factor receptor erbB1 inhibitor,CHEMBL203,SINGLE PROTEIN,EGFR,1,DailyMed:setid=827d60e8-7e07-41b7-c28b-49ef1c4a5a41,0
+CHEMBL98,Vorinostat,INHIBITOR,Histone deacetylase 1 inhibitor,CHEMBL325,SINGLE PROTEIN,HDAC1,1,DailyMed:setid=cd86ee78-2781-468b-930c-3c4677bcc092#section-13,0
+CHEMBL98,Vorinostat,INHIBITOR,Histone deacetylase 3 inhibitor,CHEMBL1829,SINGLE PROTEIN,HDAC3,1,DailyMed:setid=cd86ee78-2781-468b-930c-3c4677bcc092#section-13,0
+CHEMBL98,Vorinostat,INHIBITOR,Histone deacetylase 6 inhibitor,CHEMBL1865,SINGLE PROTEIN,HDAC6,1,DailyMed:setid=cd86ee78-2781-468b-930c-3c4677bcc092#section-13,0
+CHEMBL98,Vorinostat,INHIBITOR,Histone deacetylase 2 inhibitor,CHEMBL1937,SINGLE PROTEIN,HDAC2,1,DailyMed:setid=cd86ee78-2781-468b-930c-3c4677bcc092#section-13,0
