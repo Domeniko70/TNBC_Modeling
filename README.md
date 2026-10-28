@@ -50,11 +50,11 @@ Structure of the Patient_records folder. The folder contains one subfolder per p
 
 **Additional results and supplementary files.**
 
-- `results_tables/`: Tables 2–6 of the article (files `TABLE_2` to `TABLE_6`, with the same numbering as in the manuscript). Table 3 reports the sensitivity analysis to the update scheme (asynchronous updates, with node-state inversion noise of 0% for 13 patients and 2% for patient 8); the corresponding output folders are `asincrony_NEW`. Table 4 lists the drug–target annotations retrieved from ChEMBL for the network genes; Table 5 is the patient-level results table (target-match scores before and after intervention, intervention size, driver nodes and imposed states, mapped drugs, unmatched driver nodes and Non_Driver_Target_Count). Definitions of the columns that need explanation:
-  - `Non_Driver_Target_Count`: number of molecular targets modulated by the selected drug combination that are distinct from the driver nodes it was selected for. It is an in-network, topology-based proxy of off-target engagement and has not been validated against experimental or clinical adverse-effect data.
+- `results_tables/`: Tables 2–6 of the article (files `TABLE_2` to `TABLE_6`, with the same numbering as in the manuscript). Table 3 reports the sensitivity analysis to the update scheme (asynchronous updates, with node-state inversion noise of 0% for 13 patients and 2% for patient 8); the corresponding output folders are `asincrony_NEW`. Table 4 lists the drug–target association retained by the strict ChEMBL-based mapping rule (see below; the 16 associations of the previous analysis, now removed, are documented in Supplementary File S2); Table 5 is the patient-level results table (target-match scores before and after intervention, intervention size, driver nodes and imposed states, mapped drugs, unmatched driver nodes and Non_Driver_Target_Count). Definitions of the columns that need explanation:
+  - `Non_Driver_Target_Count`: number of molecular targets modulated by the selected drug that are distinct from the driver nodes it was selected for. It is an in-network, topology-based proxy of off-target engagement and has not been validated against experimental or clinical adverse-effect data.
   - `Unmatched_Driver_Nodes`: driver nodes for which no drug was assigned; an empty cell means that all driver nodes were matched to a drug.
-  - `Gene_Symbol_Match` (Table 4): "Exact" when the ChEMBL target corresponds to the network gene; "Fallback (verify manually)" when the drug was mapped through a related ChEMBL target.
-  - `Directness_of_Interaction` (Table 4): "Direct binding" when the drug binds the target protein of the network gene; "Direct binding to ChEMBL target (not the network gene)" for fallback mappings.
+  - `Gene_Symbol_Match (Table 4): “Exact” when the ChEMBL target corresponds to the network gene. Only exact matches are retained under the strict mapping rule..
+  - `Directness_of_Interaction (Table 4): “Direct binding” when the drug binds the target protein of the network gene.
 - `supplementary_data/Exhaustive_k1_k2_NEW.xlsx`: exhaustive enumeration of all intervention sets of size k = 1 and k = 2, used to benchmark the genetic algorithm.
 - `supplementary_data/Sensitivity_P4_P20_NEW.xlsx`: sensitivity analysis of the pruning tolerance (τ = 0.4) for patients 4 and 20.
 
@@ -69,9 +69,9 @@ Files (folder `supplementary_data`):
 - `Drugs_1.xlsx`: curated drug list of the previous analysis (3,716 associations); it is the input of `build_drugs_direct.ipynb` and is kept for reproducibility.
 - `Supplementary_File_S2_Pharmacology.xlsx`: filtering cascade, removed compounds, final association, the 16 associations of the previous analysis with the reason for their removal, a family-level variant (hypotheses only, not used in the conclusions) and a per-patient comparison.
 
-Results (folder `results_tables`): `TABLE_4_NEW.xlsx` (final drug–target association with ChEMBL annotation) and `TABLE_5_NEW.xlsx` (driver nodes, mapped drugs and non-driver target counts per patient).
+Results (folder `results_tables`): `TABLE_4.xlsx` (final drug–target association with ChEMBL annotation) and `TABLE_5.xlsx` (driver nodes, mapped drugs and non-driver target counts per patient).
 
 Note: a drug is assigned in 1 of the 41 patients (Patient 41: vorinostat, HDAC1 inhibition). The drug assignments are computational predictions derived from database annotations; they are not clinically validated treatments.
 - `results_tables/Wilcoxon_paired_scores_NEW.png`: paired comparison of baseline and final target-match scores (Wilcoxon signed-rank test, descriptive).
 - `results_tables/Figure5_interactive.html`: interactive version of Figure 5 (driver nodes, drugs and Non_Driver_Target_Count for each patient), viewable in any web browser.
-supplementary_data/Supplementary_File_S2_Pharmacology.xlsx`: Supplementary File S2 of the article (pharmacological mapping: filtering cascade, removed compounds and final drug–target associations).
+  
